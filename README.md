@@ -19,7 +19,7 @@ I build and review investment infrastructure. I do not manage client capital.
 Source code lives under [QuantJourneyOrg](https://github.com/QuantJourneyOrg).
 
 **Writing**
-- [Quant Interviews](https://jakubpolec.com) - book, 194 questions across two volumes
-- [QuantJourney newsletter](https://quantjourney.substack.com) - buy-side architecture and research validation, 6,000+ subscribers
+- [Book: Quant Interviews](https://quant-interviews.quantjourney.cloud) - book, 194 questions across two volumes
+- [Newsletter: QuantJourney Substack](https://quantjourney.substack.com) - investment architecture and research validation, 6,000+ subscribers
 
 **Contact:** [jakubpolec.com](https://jakubpolec.com) · jakub@quantjourney.pro · [LinkedIn](https://www.linkedin.com/in/jakubpolec/)
