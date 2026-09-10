@@ -1,18 +1,18 @@
-## About Me
+# Jakub Polec
 
-Quant Systems Architect and Founder of QuantJourney.
+Founder of [QuantJourney](https://quantjourney.cloud), a modular buy-side investment platform (IBOR/PMS, instrument master, portfolio state, MCP/API access) built for hedge funds, family offices and asset managers.
 
-I work with hedge funds, family offices, asset managers and investment-technology
-companies on quantitative systems and the infrastructure behind investment decisions —
-research and data architecture, portfolio and risk workflows, AI-native systems,
-strategy validation and technical due diligence.
+I build and review investment infrastructure. I do not manage client capital.
 
-I build QuantJourney, an investment-technology platform for institutional research,
-data, portfolio, risk and AI infrastructure.
-QuantJourney does not manage client assets or provide investment advice.
+**Background:** physics (University of Warsaw, CERN), 20+ years in technology (Microsoft, Oracle, T-Mobile/Orange), three startups, one exit. In quantitative finance since 2020.
 
-Background: high-energy physics, Microsoft, Oracle, technology ventures and
-quantitative finance. At Oracle I led Industry and Innovation across ECEMEA.
+**Products**
+- [OneBook](https://quantjourney.cloud) - IBOR/PMS and portfolio state for buy-side teams
+- [QuantJourney API](https://api.quantjourney.cloud) - point-in-time market and fundamentals data, MCP-native
+- [QuantJourney Agents](https://agents.quantjourney.cloud) - agentic research and portfolio workflows over the same data layer
+- [Backtester](https://github.com/jpolec/quantjourney-bt) - open-source event-driven backtesting engine
 
-- [jakubpolec.com](https://jakubpolec.com/)
-- [quantjourney.cloud](https://quantjourney.cloud/)
+**Writing**
+- [QuantJourney newsletter](https://quantjourney.substack.com) - buy-side architecture and research validation, 6,000+ subscribers
+- [Quant Interviews](https://jakubpolec.com) - book, 194 questions across two volumes
+- [qj_public_code](https://github.com/jpolec/qj_public_code) - code from the newsletter
