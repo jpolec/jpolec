@@ -9,11 +9,11 @@ I build and review investment infrastructure. I do not manage client capital.
 **Products**
 - [OneBook](https://quantjourney.cloud) - IBOR/PMS and portfolio state for buy-side teams
 - [QuantJourney API](https://api.quantjourney.cloud) - point-in-time market and fundamentals data, MCP-native
-- [QuantJourney Backtester](https://quantjourney.cloud/backtester) - event-driven backtesting engine ([source](https://github.com/QuantJourneyOrg))
+- [QuantJourney Backtester](https://backtester.quantjourney.cloud/backtester) - event-driven backtesting engine
 - [QuantJourney Agents](https://agents.quantjourney.cloud) - agentic research and portfolio workflows over the same data layer
 
 **Writing**
-- [Book: Quant Interviews](https://quant-interviews.quantjourney.cloud) - book, 194 questions across two volumes
+- [Book: Quant Interviews](https://quant-interviews.quantjourney.cloud) - 194 questions across two volumes
 - [Newsletter: QuantJourney Substack](https://quantjourney.substack.com) - investment architecture and research validation, 6,000+ subscribers
 
 **Python packages** ([PyPI](https://pypi.org/user/jpolec/))
