@@ -11,8 +11,6 @@ I build QuantJourney, an investment-technology platform for institutional resear
 data, portfolio, risk and AI infrastructure.
 QuantJourney does not manage client assets or provide investment advice.
 
-I also invest proprietary capital independently.
-
 Background: high-energy physics, Microsoft, Oracle, technology ventures and
 quantitative finance. At Oracle I led Industry and Innovation across ECEMEA.
 
